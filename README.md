@@ -61,9 +61,8 @@ $ uname -a
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ocramadp)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/diwan-ramadhani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwan-ramadhani-dwi-putra/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-c9d1d9?style=flat-square&logo=github&logoColor=0d1117)](https://github.com/Ramaaaadevs)
 
