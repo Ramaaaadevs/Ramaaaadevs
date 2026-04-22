@@ -37,7 +37,7 @@ $ uname -a
 **Tools I work with**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,linux,git,opencv,sklearn,androidstudio,mysql,tensorflow&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,html,react,linux,git,opencv,sklearn,mysql,tensorflow&theme=dark&perline=9" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
