@@ -25,7 +25,7 @@ $ uname -a
 
 ---
 
-**Currently working on**
+## 🚀 Currently Working On
 
 &nbsp;&nbsp;`>` DBS Foundation Coding Camp X Dicoding - Data Science  
 &nbsp;&nbsp;`>` Face shape detection pipeline - OpenCV | MediaPipe | Streamlit  
@@ -34,7 +34,7 @@ $ uname -a
 
 ---
 
-**Tools I work with**
+## 🛠️ Tools I Work With
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,html,react,linux,git,opencv,sklearn,mysql,tensorflow&theme=dark&perline=9" />
@@ -47,7 +47,77 @@ $ uname -a
 
 ---
 
-**Stats**
+## ⭐ Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/raphael707/FaceFit-Barber-Data-Science">
+        <img src="https://raw.githubusercontent.com/Ramaaaadevs/Ramaaaadevs/main/assets/thumb-facefitbarber.png" width="100%" alt="FaceFit Barber" />
+      </a>
+      <br/>
+      <a href="https://github.com/raphael707/FaceFit-Barber-Data-Science"><b>FaceFit Barber</b></a>
+      <br/>
+      <sub>Face shape detection pipeline for hairstyle recommendation · MediaPipe · Streamlit · Python</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Ramaaaadevs/DBS-Air-Quality-Beijing">
+        <img src="https://raw.githubusercontent.com/Ramaaaadevs/Ramaaaadevs/main/assets/thumb-airquality.png" width="100%" alt="DBS Air Quality Beijing" />
+      </a>
+      <br/>
+      <a href="https://github.com/Ramaaaadevs/DBS-Air-Quality-Beijing"><b>Air Quality Beijing Dashboard</b></a>
+      <br/>
+      <sub>Interactive air quality analysis & visualization dashboard · Python · Pandas · Streamlit</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Ramaaaadevs/Visualisasi-Data-dan-Informasi">
+        <img src="https://raw.githubusercontent.com/Ramaaaadevs/Ramaaaadevs/main/assets/thumb-ukaccident.png" width="100%" alt="UK Road Accident Visualization" />
+      </a>
+      <br/>
+      <a href="https://github.com/Ramaaaadevs/Visualisasi-Data-dan-Informasi"><b>UK Road Accident Visualization</b></a>
+      <br/>
+      <sub>Traffic accident pattern & risk factor analysis · Tableau · Power BI · Kepler.gl</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Ramaaaadevs/Website-Edukasi-SDN39TBT">
+        <img src="https://raw.githubusercontent.com/Ramaaaadevs/Ramaaaadevs/main/assets/thumb-60kuiz.png" width="100%" alt="Website Edukasi SDN39" />
+      </a>
+      <br/>
+      <a href="https://github.com/Ramaaaadevs/Website-Edukasi-SDN39TBT"><b>60KUIZ — Edukasi SDN 39</b></a>
+      <br/>
+      <sub>Interactive education platform for elementary students · Next.js · React · Tailwind · Vercel</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- TRIPMATE — uncomment to re-enable
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Ramaaaadevs/Proyek-Pengembangan-Aplikasi-Mobile">
+        <img src="https://raw.githubusercontent.com/Ramaaaadevs/Ramaaaadevs/main/assets/thumb-tripmate.png" width="100%" alt="TripMate Mobile App" />
+      </a>
+      <br/>
+      <a href="https://github.com/Ramaaaadevs/Proyek-Pengembangan-Aplikasi-Mobile"><b>TripMate — Mobile Travel App</b></a>
+      <br/>
+      <sub>KMP travel planning app with AI itinerary & packing list · Kotlin Multiplatform · Compose · Gemini AI</sub>
+    </td>
+    <td align="center" width="50%">
+      slot kosong atau project baru
+    </td>
+  </tr>
+</table>
+-->
+
+</div>
+
+---
+
+## 📊 Stats
 
 <div align="center">
   <img height="160" src="https://github-readme-stats-one-theta-dm0sow1rwx.vercel.app/api?username=Ramaaaadevs&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" />
@@ -57,7 +127,7 @@ $ uname -a
 
 ---
 
-**Reach me**
+## 📬 Reach Me
 
 <div align="center">
 
