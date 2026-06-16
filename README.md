@@ -120,7 +120,7 @@ $ uname -a
 ## 📊 Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-one-theta-dm0sow1rwx.vercel.app/api?username=Ramaaaadevs&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats-one-theta-dm0sow1rwx.vercel.app/api?username=Ramaaaadevs&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&v=2" />
   &nbsp;
   <img height="160" src="https://github-readme-stats-one-theta-dm0sow1rwx.vercel.app/api/top-langs/?username=Ramaaaadevs&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
